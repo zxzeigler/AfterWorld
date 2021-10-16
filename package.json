@@ -1,0 +1,21 @@
+{
+    "name": "after-world",
+    "displayName": "After-World",
+    "description": "Neon ruins of the modern world.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "After-World",
+                "uiTheme": "vs-dark",
+                "path": "./themes/After-World-color-theme.json"
+            }
+        ]
+    }
+}
