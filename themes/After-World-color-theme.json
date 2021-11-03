@@ -428,7 +428,7 @@
 		},
 		{
 			"scope": [
-				"string.quoted.double.html",
+
 				"variable.other.constant.js",
 				"variable.other.object.property.js",
 				"string.quoted.double.json",
@@ -454,7 +454,8 @@
 		},
 		{
 			"scope": [
-				"string.quoted.double.json"
+				"string.quoted.double.json",
+				"string.quoted.double.html"
 			],
 			"settings": {
 				"foreground": "#ffab0eb4"
