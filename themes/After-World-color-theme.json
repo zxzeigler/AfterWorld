@@ -401,7 +401,10 @@
 				"entity.name.tag.html"
 			],
 			"settings": {
-				"fontStyle": "bold"
+				"fontStyle": "bold",
+				//"foreground": "#37FFC3"
+				//"foreground": "#37ffc3a9"
+				"foreground": "#a4f7ff"
 			}
 		},
 		{
@@ -423,7 +426,7 @@
 			],
 			"settings": {
 				"foreground": "#37ffc3",
-				"fontStyle": ""
+				"fontStyle": "bold"
 			}
 		},
 		{
